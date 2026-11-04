@@ -19,7 +19,7 @@ namespace Attica
 
 /*!
  * \class Attica::BuildServiceJobOutput
- * \inmodule Attica/BuildServiceJobOutput
+ * \inheaderfile Attica/BuildServiceJobOutput
  * \inmodule Attica
  *
  * \brief Represents the ouput of a build service job.

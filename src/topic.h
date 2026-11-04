@@ -20,7 +20,7 @@ namespace Attica
 /*!
  * \class Attica::Topic
  * \inheaderfile Attica/Topic
- * \inmodule Attica::Topic
+ * \inmodule Attica
  *
  * \brief Represents a topic.
  */
