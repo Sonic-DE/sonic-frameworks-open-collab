@@ -2,6 +2,10 @@
 
 Sonic Frameworks Open Collab connects SonicDE to online content stores, so you can browse and download new themes, wallpapers and add-ons.
 
+## 6.31.0.1 (2026-11-10)
+
+- Behind the scenes: a developer documentation fix.
+
 ## 6.31.0 (2026-10-20)
 
 - Behind the scenes: version number updated for this release.
